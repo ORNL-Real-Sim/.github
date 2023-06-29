@@ -1,4 +1,4 @@
-Open-source release pending Summer 2023. Stay tuned
+# Open-source release pending Summer 2023. Stay tuned
 
 Real-Sim is a multi-resolution X-in-the-loop simulation framework to support inclusive testing and evaluation of CAVs before actual implementation in the real world. Real-Sim framework connects different simulation components and integrates various traffic and vehicle simulation tools, virtual environments, and XIL systems through a Flexible Interface for XIL Simulation (FIXS). Connections among different tools are transparent to users and handled by the interface behind the scenes. Co-simulation of various vehicle and traffic simulation tools with different XIL systems can be easily achieved and become a transparent “plug-and-play” process to users.
 
