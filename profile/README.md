@@ -14,6 +14,9 @@ VIL: vehicle-in-the-loop
 XIL: anything-in-the-loop
 
 # Examples
+## CARLA+VIL
+https://github.com/user-attachments/assets/ea4dad76-591a-499c-8bf3-24dac8682949
+
 ## VISSIM+IPG CarMaker+VIL
 https://github.com/Real-Sim-XIL/.github/assets/73845081/048618c1-6c59-4f75-b956-6d232366077e
 
