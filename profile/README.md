@@ -15,7 +15,7 @@ XIL: anything-in-the-loop
 
 # Examples
 ## CARLA+VIL
-https://github.com/user-attachments/assets/ea4dad76-591a-499c-8bf3-24dac8682949
+https://github.com/user-attachments/assets/e1ec668a-c787-48b7-882d-5f9e8d3e3f25
 
 ## VISSIM+IPG CarMaker+VIL
 https://github.com/Real-Sim-XIL/.github/assets/73845081/048618c1-6c59-4f75-b956-6d232366077e
@@ -25,6 +25,10 @@ https://github.com/Real-Sim-XIL/.github/assets/73845081/7eded4fd-25ec-4501-a745-
 
 ## SUMO+2 VIL
 https://github.com/Real-Sim-XIL/.github/assets/73845081/f28ee0e9-d79a-491e-8136-a430d699cb2c
+
+## CARLA+Autoware
+https://github.com/user-attachments/assets/2c374e8e-61e1-47e5-bcb4-63596491ece3
+
 
 # Diagrams
 ![image](https://github.com/Real-Sim-XIL/.github/assets/73845081/a0e7f2e7-4905-4249-8090-5ed755814e5a)
